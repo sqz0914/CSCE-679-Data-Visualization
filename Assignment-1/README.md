@@ -1,5 +1,6 @@
 # Assignment 1
 This is a **Matrix View** of the **Monthly Temperature** of Hong Kong.
+
 ![Screenshot](Screenshot.png)
 ## How to run
 1. Make sure Python 3 is install: `https://www.python.org/downloads/`
