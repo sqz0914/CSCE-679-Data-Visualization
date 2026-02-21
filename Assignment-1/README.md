@@ -3,7 +3,7 @@ This is a **Matrix View** of the **Monthly Temperature** of Hong Kong.
 
 ![Screenshot](Screenshot.png)
 ## How to run
-1. Make sure Python 3 is install: `https://www.python.org/downloads/`
+1. Make sure Python 3 is installed: [Python 3](https://www.python.org/downloads/)
 1. Clone the repo
 ```sh
 git clone https://github.com/sqz0914/CSCE-679-Data-Visualization.git
@@ -16,4 +16,4 @@ cd Assignment-1
 ```sh
 python -m http.server 8000
 ```
-4. Open `http://localhost:8000/index.html` to see the visualization
+4. Open a browser and enter `http://localhost:8000/index.html` to see the visualization
